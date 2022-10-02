@@ -1,0 +1,2 @@
+# boilerplate
+curated projects boilerplate
